@@ -62,6 +62,11 @@ const selfRolesData2 = {
       .setStyle('Secondary'),
 
       new ButtonBuilder()
+      .setCustomId('selfRole-1089667411457871935')
+      .setLabel('Community Channels')
+      .setStyle('Secondary'),
+
+      new ButtonBuilder()
       .setCustomId('selfRole-1089625250288906310')
       .setLabel('Lemme see logs')
       .setStyle('Secondary'),
