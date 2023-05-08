@@ -7,6 +7,16 @@ const colours = {
   main: 'ff3300'
 }
 
+const userJson = {
+  id: null,
+  strip: {
+    active: false,
+    roles: []
+  },
+  temproles: []
+}
+
 module.exports = {
-  colours
+  colours,
+  userJson
 }

@@ -28,8 +28,8 @@ Handler.main.DiscordCommandHandler(client,  {
     selectMenus: '/selectMenus'
   },
   builtIn: {
-    automaticRepair: true,
-    helpCommand: true
+    automaticRepair: false,
+    helpCommand: false
   },
   allowPrefixCommands: true,
   prefix: '>>',
